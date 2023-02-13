@@ -1,6 +1,6 @@
 # DSAID Data Engineering Technical Test
 
-This test is split into 5 sections, **data pipelines**, **databases**, **system design**, **charts & APIs**, **machine learning**. 
+This test is split into 2 sections, **data pipelines**, **databases**
 
 ## Submission Guidelines
 Please create a Github repository containing your submission and send us an email containing a link to the repository.
